@@ -19,5 +19,6 @@ Bu proje, hijyen ve güvenlik amacıyla geliştirilen bir **IoT tabanlı** siste
 ## Kodu Derlemek için
 Arduino IDE kullanarak `main_code/esp82_code.ino` dosyasını ESP82'ye yükleyin.
 
-##Projenin blog yazısı
+
+Projenin blog yazısı:
 https://bilgiblokk.blogspot.com/2025/05/akll-hijyen-ve-guvenlik-sistemi.html
